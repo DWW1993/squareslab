@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin: 0.5em;
+}
+
+.box {
+    height: 7em;
+    width: 7em;
+    float: left;
+    margin: 0.5em 0.5em;
+    color: white;
+    text-align: center;
+}
+
+.box h1 {
+    margin-top: 40px;
+}
